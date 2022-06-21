@@ -1,0 +1,13 @@
+C:\Users\USER\source\repos\20181986_20188768_assign5\bin\Debug\20181986_20188768_assign5.exe.config
+C:\Users\USER\source\repos\20181986_20188768_assign5\bin\Debug\20181986_20188768_assign5.exe
+C:\Users\USER\source\repos\20181986_20188768_assign5\bin\Debug\20181986_20188768_assign5.pdb
+C:\Users\USER\source\repos\20181986_20188768_assign5\obj\Debug\20181986_20188768_assign5.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\20181986_20188768_assign5\obj\Debug\_20181986_20188768_assign5.AboutBox1.resources
+C:\Users\USER\source\repos\20181986_20188768_assign5\obj\Debug\_20181986_20188768_assign5.Form1.resources
+C:\Users\USER\source\repos\20181986_20188768_assign5\obj\Debug\_20181986_20188768_assign5.Form2.resources
+C:\Users\USER\source\repos\20181986_20188768_assign5\obj\Debug\_20181986_20188768_assign5.Form3.resources
+C:\Users\USER\source\repos\20181986_20188768_assign5\obj\Debug\_20181986_20188768_assign5.Properties.Resources.resources
+C:\Users\USER\source\repos\20181986_20188768_assign5\obj\Debug\20181986_20188768_assign5.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\20181986_20188768_assign5\obj\Debug\20181986_20188768_assign5.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\20181986_20188768_assign5\obj\Debug\20181986_20188768_assign5.exe
+C:\Users\USER\source\repos\20181986_20188768_assign5\obj\Debug\20181986_20188768_assign5.pdb
